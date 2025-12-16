@@ -8,7 +8,7 @@ class TestGit3ApplicationTests {
 
 	@Test
 	void contextLoads() { 
-		int x = 100
+		int x = 100;
 	}
 
 }
