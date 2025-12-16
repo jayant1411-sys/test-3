@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class TestGit3ApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() { 
+		int x = 100
 	}
 
 }
